@@ -34,6 +34,7 @@
     - hist_matching: grayscale 이미지와 reference 이미지(grayscale)를 입력으로 받아 histogram matching을 수행 후, pdf와 output을 파일 출력
     - hist_matching_color: RGB 이미지와 reference 이미지(RGB)를 입력으로 받아 YUV로 변환하여 histogram matching을 수행 후, pdf와 output을 파일 출력
 - plot.ipynb: plotting을 수행하는 ipynb 파일
+<br></br>
 
 ## 프로젝트 실행 환경
 - OS: Ubuntu 18.04
